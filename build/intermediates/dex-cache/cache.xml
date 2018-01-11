@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\Documents\475 Android Assignments\Assignment 4\P5_CraigsList_Skeleton\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0276200f64501fba2c637662fb3db4ef62fd196e">
+        <dex dex="C:\Users\John\Documents\475 Android Assignments\Assignment 4\P5_CraigsList_Skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_727114a8a0bf68451f0afc387fb34c9c81ccdf81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\Documents\475 Android Assignments\Assignment 4\P5_CraigsList_Skeleton\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\John\Documents\475 Android Assignments\Assignment 4\P5_CraigsList_Skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_dd6acc998abbed7556f423f5532096e31621e3bc\classes.dex" />
+    </item>
+
+</items>

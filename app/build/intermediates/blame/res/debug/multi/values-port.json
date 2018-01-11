@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\John\\Documents\\475 Android Assignments\\Assignment 4\\P5_CraigsList_Skeleton\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\John\\.android\\build-cache\\5b32f46e1c88f6dffb5ce91fae196581a7c66c20\\output\\res\\values-port\\values-port.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 55,
+                        "endOffset": 280
+                    }
+                }
+            }
+        ]
+    }
+]

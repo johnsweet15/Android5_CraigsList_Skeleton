@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sortable_fields">
+        <item>Company</item>
+         <item>Model</item>
+        <item>Price</item>
+        <item>Location</item>
+   </string-array>
+
+    <string-array name="urls">
+        <item>http://www.pcs.cnu.edu/~kperkins/bikes/bikes.json</item>
+        <item>http://www.tetonsoftware.com/bikes/bikes.json</item>
+    </string-array>
+
+    <string-array name="url_names">
+        <item>CNU - Defender</item>
+        <item>Pair - Teton Software</item>
+    </string-array>
+
+
+</resources>
